@@ -27,7 +27,7 @@ The video stream from the mobile device is transmitted over a local network and 
 ## Custom Desktop Software Picture
 
 ## Picture 1
-![FPV Car](WhatsApp Image 2026-04-06 at 10.28.50 AM (1).jpeg)
+![FPV Car](fpv_car_01.jpeg)
 
 ## System Architecture
 Mobile Camera (FPV) ---> IP Network ---> Desktop Software
