@@ -1,0 +1,11 @@
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\bin\Debug\RC.exe
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\bin\Debug\RC.pdb
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\obj\Debug\RC.csprojResolveAssemblyReference.cache
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\obj\Debug\RC.Form1.resources
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\obj\Debug\RC.Properties.Resources.resources
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\obj\Debug\RC.csproj.GenerateResource.Cache
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\obj\Debug\RC.exe
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\obj\Debug\RC.pdb
+c:\users\ghl_srv\documents\visual studio 2013\Projects\RC\RC\obj\Debug\RC.CForm.resources
+C:\Users\mroshid\Downloads\Compressed\RC\RC\RC\obj\Debug\RC.exe
+C:\Users\mroshid\Downloads\Compressed\RC\RC\RC\obj\Debug\RC.pdb
